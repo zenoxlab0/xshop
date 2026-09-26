@@ -1,0 +1,30 @@
+{
+  "name": "x-shop",
+  "version": "1.0.0",
+  "description": "X SHOP \u2014 Premium Digital Marketplace Discord bot (public shop menu, private order tickets, payment verification)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "smoke": "node scripts/smoke.js",
+    "web-e2e": "node scripts/web-e2e.js",
+    "sync-emojis": "node scripts/sync-application-emojis.js",
+    "verify-emojis": "node scripts/verify-emoji-ids.js",
+    "whoami": "node scripts/whoami.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "discord",
+    "shop",
+    "discord.js",
+    "marketplace"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.1",
+    "express": "^4.21.2"
+  }
+}

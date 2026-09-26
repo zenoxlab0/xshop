@@ -1,0 +1,98 @@
+{
+  "security": {
+    "name": "MekoMod",
+    "id": "1542484455665569854"
+  },
+  "utility": {
+    "name": "MekoUtility",
+    "id": "1542483988315246672"
+  },
+  "general": {
+    "name": "features_icons",
+    "id": "1542484277839790082"
+  },
+  "automod": {
+    "name": "MekoAutomod",
+    "id": "1542484463076773959"
+  },
+  "moderation": {
+    "name": "MekoModeration",
+    "id": "1542484488301318175"
+  },
+  "music": {
+    "name": "MekoDeveloper",
+    "id": "1542484266057736215"
+  },
+  "customrole": {
+    "name": "MekoGreet",
+    "id": "1542484209120051300"
+  },
+  "reactionrole": {
+    "name": "MekoRuby",
+    "id": "1542484198093230120"
+  },
+  "sticky": {
+    "name": "MekoActivity",
+    "id": "1542484374111387719"
+  },
+  "booster": {
+    "name": "icon_booster",
+    "id": "1542483662371557508"
+  },
+  "verification": {
+    "name": "MekoServer",
+    "id": "1542483497980272730"
+  },
+  "fun": {
+    "name": "MekoStatusRole",
+    "id": "1542484220025507890"
+  },
+  "games": {
+    "name": "MekoFun",
+    "id": "1542484469624078336"
+  },
+  "permit": {
+    "name": "MekoFastMessage",
+    "id": "1542484480244318248"
+  },
+  "server": {
+    "name": "MekoAttachment",
+    "id": "1542484496081879110"
+  },
+  "voice": {
+    "name": "MekoVoice",
+    "id": "1542484510233464942"
+  },
+  "messages": {
+    "name": "NexusStarboard",
+    "id": "1542484240459898910"
+  },
+  "welcomer": {
+    "name": "Welcome",
+    "id": "1542486296713240617"
+  },
+  "giveaway": {
+    "name": "MekoGift",
+    "id": "1542484475290591262"
+  },
+  "ticket": {
+    "name": "MekoTicket",
+    "id": "1542484502482387005"
+  },
+  "jointocreate": {
+    "name": "MekoUnmute",
+    "id": "1542484234751447070"
+  },
+  "invite": {
+    "name": "MekoInvite",
+    "id": "1542484273024602162"
+  },
+  "voicetracker": {
+    "name": "voice",
+    "id": "1542484037636063252"
+  },
+  "vanity": {
+    "name": "NexusStarboard",
+    "id": "1542484240459898910"
+  }
+}
